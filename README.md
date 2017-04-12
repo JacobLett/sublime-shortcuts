@@ -8,6 +8,10 @@
 | Ctrl + ⇧ + ↑    | Move line/selection up                                    |
 | Ctrl + ⇧ + ↓    | Move line/selection down                                  |
 | Ctrl + L        | Select line - Repeat to select next lines                 |
+| Home        | Move cursor to beginning of line                 |
+| End        | Move cursor to end of line                |
+| Ctrl + Home        | Move cursor to beginning of document                 |
+| Ctrl + End        | Move cursor to end of document              |
 | Ctrl + D        | Select word - Repeat select others occurrences            |
 | Ctrl + M        | Jump to closing parentheses                               |
 |                 | Repeat to jump to opening parentheses                     |

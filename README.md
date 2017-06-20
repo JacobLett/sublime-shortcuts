@@ -8,6 +8,7 @@
 | Ctrl + ⇧ + ↑    | Move line/selection up                                    |
 | Ctrl + ⇧ + ↓    | Move line/selection down                                  |
 | Ctrl + L        | Select line - Repeat to select next lines                 |
+| Ctrl + Shift + L        | Multiple cursors in front of lines                |
 | Home        | Move cursor to beginning of line                 |
 | End        | Move cursor to end of line                |
 | Ctrl + Home        | Move cursor to beginning of document                 |
